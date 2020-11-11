@@ -1,0 +1,157 @@
+div#quiz{
+    background-color: rgb(32 32 32);
+    border: solid;
+    width: 700px;
+    height: 850px;
+    float: center;
+    position: relative;
+    margin: 0 auto 0 auto;
+}
+
+
+div#dquestoes{
+    padding:10px 40px 40px 40px;
+    background-color:rgb(26 26 26);
+    width: 500px;
+    height: 550px;
+    color: #ffffff;
+    float: center;
+    position: relative;
+    margin: 50px auto 0 auto;
+    font-size: 1.2em;
+}
+
+div#wdquestoes{
+    float: center;
+    position: relative;
+    margin: 0px auto 0 auto;
+    width: 122px;
+}
+
+div#rA{
+    background-color:rgb(32 32 32);
+    width: 450px;
+    height: 30px;
+    float: center;
+    position: relative;
+    margin: 0 auto 0 auto;
+}
+
+div#rB{
+    background-color:rgb(32 32 32);
+    width: 450px;
+    height: 30px;
+    float: center;
+    position: relative;
+    margin: 0 auto 0 auto;
+}
+
+div#rC{
+    background-color:rgb(32 32 32);
+    width: 450px;
+    height: 30px;
+    float: center;
+    position: relative;
+    margin: 0 auto 0 auto;
+}
+
+div#rD{
+    background-color:rgb(32 32 32);
+    width: 450px;
+    height: 30px;
+    float: center;
+    position: relative;
+    margin: 0 auto 0 auto;
+}
+
+div#imgquestoes{
+    width: 450px;
+    height: 250px;
+    float: center;
+    position: relative;
+    margin: 0 auto 0 auto;
+}
+
+div#vprogress{
+    padding:10px 40px 40px 40px;
+    background-color:rgb(26 26 26);
+    width: 500px;
+    height: 20px;
+    color: #ffffff;
+    float: center;
+    position: relative;
+    margin: 10px auto 0 auto;
+    text-align: center;
+}
+
+div#titquiz{
+    padding: 10px 5px 5px 5px;
+    background-color:rgb(26 26 26);
+    width: 570px;
+    height: 50px;
+    color: #ffffff;
+    float: center;
+    position: relative;
+    margin: 5px auto 0 auto;
+    text-align: center;
+    font-size: 1.8em;
+}
+
+h2#progresso {
+    color: #ffffff;
+    font-size: 1.4em;
+}
+
+button {
+    border-radius: 8px;
+    font-size: 1.8em;
+    color: rgb(158 142 213);
+}
+
+button:hover {
+    box-shadow: 0em .1em 0.2em .2em rgba(255,255,255,.5);	
+    color:rgb(255,255,255);
+	background-color:rgba(255,255,255,0.2);
+	-moz-transition: all 0.9s ease;
+			-webkit-transition: all 0.9s ease;
+				-o-transition: all 0.9s ease;
+					transition: all 0.9s ease;
+}
+
+
+h3{
+    color: #ffffff;
+    font-size: 1em;
+    text-align: center;
+}
+
+h4{
+    color: #ffffff;
+    font-size: 1.2em;
+    text-align: center;
+}
+
+h5{
+    color: #ffffff;
+    font-size: .8em;
+    text-align: center;
+}
+
+a:link {
+    text-decoration: none;
+    color: white;
+}
+a:visited {
+    text-decoration: none;
+    color: white;
+}
+  
+a:hover {
+    text-decoration: none;
+    color: white;
+}
+  
+a:active {
+    text-decoration: none;
+    color: white;
+}  
